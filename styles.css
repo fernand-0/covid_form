@@ -1,0 +1,42 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #f8f8f8;
+    color: #333333;
+    
+  }
+
+  #title, #description {
+    padding: 10px 0 0 10px;
+  }
+  
+  .personal-data label, .personal-data input {
+    display: inline-block;
+  }
+  
+  .personal-data input {
+    width: 15%;
+  }
+  
+  .personal-data label {
+    min-width: 45px;
+  }
+
+  fieldset {
+   margin-bottom: 20px;
+   padding: 10px 0 0 10px;
+   border: none;
+  }
+
+  div {
+    margin-bottom: 10px;
+  }
+
+  legend {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2em;
+    font-weight: bold;
+  }
+  
+
+  
+  
